@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 ## **About Me**  
-======
+
 I'm a third-year master in the [MAC lab](http://mac.xmu.edu.cn/ ), School of Informatics, Xiamen University, China, supervised  by  [Prof. Rongrong Ji](http://mac.xmu.edu.cn/rrji-en.html).  My interests include Vision-and-Language， especially in Referring Expression Comprehension and Visual Question Answering.
 
 ## **News**  
-======
+
 - Two papers are accepted by ACM MM2020 Oral.
 - One paper is accepted by CVPR2020 Oral.
 
