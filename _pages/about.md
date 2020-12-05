@@ -14,6 +14,7 @@ I'm a third-year master in the [MAC lab](http://mac.xmu.edu.cn/ ), School of Inf
 
 ## **News**  
 
+- One paper is accepted by  AAAI2021.
 - Two papers are accepted by ACM MM2020 Oral.
 - One paper is accepted by CVPR2020 Oral.
 
